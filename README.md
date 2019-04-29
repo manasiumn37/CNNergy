@@ -22,6 +22,8 @@ The directories named "src" and "data" contain all the required files to use the
 6. VGG16_Main.m -- The main file to run all the layers of VGG-16.
 7. GoogleNet_Main.m -- The main file to run all the layers of GoogleNet_v1. 
 8. SqueezeNet_Main.m -- The main file to run all the layers of SqueezeNet_v11. 
+9. Clock_Tree_Power.m -- This file implements the model to estimate the power consumption by the clock network.
+10. Analytical_Model.m -- This is the function which implements the analytical CNN energy model. Details about the function are provided below.
 
   **Notes:** (In order to run the "GoogleNet_Main.m" file, keep "GoogleNet_Main.m" and "GoogleNet_v1_Input_File.txt" in the same directory.
 
@@ -30,11 +32,6 @@ In order to run the "SqueezeNet_Main.m" file, keep "SqueezeNet_Main.m" and "Sque
 In order to run each of the main.m files listed above in 5-8, keep the main.m files and the "Analytical_Model.m" file in the same directory.
 
 After running each of the main.m files listed above in 5-8, the energy values required to process each layer of that CNN will be plotted in a figure as well as the energy results will be written in a .txt file)
-
-9. Clock_Tree_Power.m -- This file implements the model to estimate the power consumption by the clock network.
-
-10. Analytical_Model.m -- This is the function which implements the analytical CNN energy model. Details about the function are provided below.
-
 
 
 ## The function: Analytical_Model.m
