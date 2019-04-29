@@ -9,16 +9,20 @@ The directory named "src" and "data" contain all the required files to use the t
 ## Guideline to use CNNergy
 
 List of the files in "data" directory:
-5. GoogleNet_v1_Input_File.txt -- This file contains the layer shape parameters for all the layers of GoogleNet_v1 and is used as input to the GoogleNet_Main.m file.
-6. SqueezeNet_v11_Input_File.txt -- This file contains the layer shape parameters for all the layers of SqueezeNet_v11 and is used as input to the SqueezeNet_Main.m file.
-7. GoogleNet_v1_Input_File_with_description.txt -- This is same as the GoogleNet_v1_Input_File.txt with a description of the format of each row.
-8. SqueezeNet_v11_Input_File_with_description.txt -- This is same as the SqueezeNet_v11_Input_File.txt with a description of the format of each row.
+
+1. GoogleNet_v1_Input_File.txt -- This file contains the layer shape parameters for all the layers of GoogleNet_v1 and is used as input to the GoogleNet_Main.m file.
+
+2. SqueezeNet_v11_Input_File.txt -- This file contains the layer shape parameters for all the layers of SqueezeNet_v11 and is used as input to the SqueezeNet_Main.m file.
+
+3. GoogleNet_v1_Input_File_with_description.txt -- This is same as the GoogleNet_v1_Input_File.txt with a description of the format of each row.
+
+4. SqueezeNet_v11_Input_File_with_description.txt -- This is same as the SqueezeNet_v11_Input_File.txt with a description of the format of each row.
 
 List of the files in "src" directory:
-1. AlexNet_Main.m -- The main file to run all the layers of AlexNet. 
-2. VGG16_Main.m -- The main file to run all the layers of VGG-16.
-3. GoogleNet_Main.m -- The main file to run all the layers of GoogleNet_v1. 
-4. SqueezeNet_Main.m -- The main file to run all the layers of SqueezeNet_v11. 
+5. AlexNet_Main.m -- The main file to run all the layers of AlexNet. 
+6. VGG16_Main.m -- The main file to run all the layers of VGG-16.
+7. GoogleNet_Main.m -- The main file to run all the layers of GoogleNet_v1. 
+8. SqueezeNet_Main.m -- The main file to run all the layers of SqueezeNet_v11. 
 
   (In order to run the "GoogleNet_Main.m" file, keep "GoogleNet_Main.m" and "GoogleNet_v1_Input_File.txt" in the same directory.
 
