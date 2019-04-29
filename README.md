@@ -57,7 +57,7 @@ The inputs to the function are as follows:
 
 10. n2 = #of ifmap to be processed together
 11. n_flag = Binary flag to indicate whether this is the first simulation or second simulation
-12. C_prcnt = %Percent control energy from components other than the clock network
+12. C_prcnt = Percent control energy from components other than the clock network
 13. Clock_Energy = Energy consumption (in joule) by the clock network
 
 14. bit_flag = Binary flag to indicate whether it is an 8-bit or 16-bit implementation
