@@ -8,13 +8,13 @@ The directories named "src" and "data" contain all the required files to use the
 
 **List of the files in the "data" directory:**
 
-1. GoogleNet_v1_Input_File.txt -- This file contains the layer shape parameters for all the layers of GoogleNet_v1 and is used as input to the GoogleNet_Main.m file.
+1. GoogleNet_v1_Input_File.txt -- This file contains the layer shape parameters for all the layers of GoogleNet_v1 and is used as input to the "GoogleNet_Main.m" file.
 
-2. SqueezeNet_v11_Input_File.txt -- This file contains the layer shape parameters for all the layers of SqueezeNet_v11 and is used as input to the SqueezeNet_Main.m file.
+2. SqueezeNet_v11_Input_File.txt -- This file contains the layer shape parameters for all the layers of SqueezeNet_v11 and is used as input to the "SqueezeNet_Main.m" file.
 
-3. GoogleNet_v1_Input_File_with_description.txt -- This is same as the GoogleNet_v1_Input_File.txt with a description of the format of each row.
+3. GoogleNet_v1_Input_File_with_description.txt -- This is same as the "GoogleNet_v1_Input_File.txt" with a description of the format of each row.
 
-4. SqueezeNet_v11_Input_File_with_description.txt -- This is same as the SqueezeNet_v11_Input_File.txt with a description of the format of each row.
+4. SqueezeNet_v11_Input_File_with_description.txt -- This is same as the "SqueezeNet_v11_Input_File.txt" with a description of the format of each row.
 
 **List of the files in the "src" directory:**
 
