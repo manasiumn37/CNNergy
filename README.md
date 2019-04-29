@@ -2,7 +2,7 @@
 
 If you use any part of this project please cite: https://github.com/manasiumn37/CNNergy
 
-The directory named "src" and "data" contain all the required files to use the tool
+The directories named "src" and "data" contain all the required files to use the tool
 
 ## Guideline to use CNNergy
 
