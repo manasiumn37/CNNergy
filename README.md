@@ -27,6 +27,8 @@ The directories named "src" and "data" contain all the required files to use the
 
 In order to run the "SqueezeNet_Main.m" file, keep "SqueezeNet_Main.m" and "SqueezeNet_v11_Input_File.txt" in the same directory.
 
+In order to run each of the main.m files listed above in 5-8, keep the main.m files and the "Analytical_Model.m" file in the same directory.
+
 After running each of the main.m files listed above in 5-8, the energy values required to process each layer of that CNN will be plotted in a figure as well as the energy results will be written in a .txt file)
 
 9. Clock_Tree_Power.m -- This file implements the model to estimate the power consumption by the clock network.
