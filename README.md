@@ -6,7 +6,7 @@ The directories named "src" and "data" contain all the required files to use the
 
 ## Guideline to use CNNergy
 
-**List of the files in "data" directory:**
+**List of the files in the "data" directory:**
 
 1. GoogleNet_v1_Input_File.txt -- This file contains the layer shape parameters for all the layers of GoogleNet_v1 and is used as input to the GoogleNet_Main.m file.
 
@@ -16,7 +16,7 @@ The directories named "src" and "data" contain all the required files to use the
 
 4. SqueezeNet_v11_Input_File_with_description.txt -- This is same as the SqueezeNet_v11_Input_File.txt with a description of the format of each row.
 
-**List of the files in "src" directory:**
+**List of the files in the "src" directory:**
 
 5. AlexNet_Main.m -- The main file to run all the layers of AlexNet. 
 6. VGG16_Main.m -- The main file to run all the layers of VGG-16.
