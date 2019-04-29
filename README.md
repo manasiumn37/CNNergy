@@ -1,4 +1,4 @@
-# CNNErgy: An Analytical CNN Energy Model
+# CNNergy: An Analytical CNN Energy Model
 
 If you use any part of this project please cite:
 
@@ -6,7 +6,7 @@ If you use any part of this project please cite:
 
 The directory named "src" and "data" contain all the required files to use the tool
 
-## Guideline to use CNNErgy
+## Guideline to use CNNergy
 
 List of the files in "data" directory:
 5. GoogleNet_v1_Input_File.txt -- This file contains the layer shape parameters for all the layers of GoogleNet_v1 and is used as input to the GoogleNet_Main.m file.
