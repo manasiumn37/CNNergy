@@ -2,7 +2,7 @@
 
 If you use any part of this project please cite: 
 
-S. D Manasi, F. S Snigdha, and S. S. Sapatnekar, "NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients," *arXiv preprint arXiv:1905.05011,* May 2019.
+S. D. Manasi, F. S. Snigdha, and S. S. Sapatnekar, "NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients," *arXiv preprint arXiv:1905.05011,* May 2019.
 
 The directories named "src" and "data" contain all the required files to use the tool.
 
