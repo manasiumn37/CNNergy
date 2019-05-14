@@ -88,5 +88,5 @@ For a given input layer the function provides the following outputs:
 14. Ifmap_DRAM_MB = Amount of DRAM access in Megabyte from ifmap data per image
 15. Ofmap_DRAM_MB = Amount of DRAM access in Megabyte from ofmap data per image
 
-For a detail description of our analytical CNN energy model please read our paper: S. D. Manasi, F. S. Snigdha, and S. S. Sapatnekar, “NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients.” [Link: https://arxiv.org/abs/1905.05011].
+For a detail description of our analytical CNN energy model please read our paper: S. D. Manasi, F. S. Snigdha, and S. S. Sapatnekar, “NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients.” (Link: https://arxiv.org/abs/1905.05011).
 
