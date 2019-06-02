@@ -12,9 +12,9 @@ Stride = [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1];                                     
 Ofmap_size = [224 224 112 112 56 56 56 28 28 28 14 14 14 1 1 1];                        % Height/Width of ofmap
 
 %Sparsity (i.e.,fraction of zeros)
-Sparsity_if = [1.6 47.7 24.8 38.7 39.7 58.1 58.7 64.3 74.7 85.4 79.4 87.4 88.5 88.00 81.70 62.50]./100;           %percent sparsity in the padded ifmap volume
-Sparsity_Of = [46.76 35.00 36.49 52.00 55.05 55.70 70.00 70.96 83.24 90.00 83.54 84.98 92.00 81.70 62.50 0]./100; %percent sparsity in the ofmap volume, ofmap does not have padding
-                                                                                                                 
+Sparsity_if = [1.7621 48.0420 21.3539 36.2569 35.3503 51.4778 52.3261 58.0037 69.7986 74.5200 81.5102 82.0155 84.5114 87.5500 75.3000 74.1300]./100;   %percent sparsity in the padded ifmap volume
+Sparsity_Of = [47.11 31.36 33.96 51.99 47.95 48.86 69.91 65.33 70.75 87.30 76.51 79.77 93.20 75.30 74.13 0]./100;                %percent sparsity in the ofmap volume, ofmap does not have padding
+
 n2 = [1 1 1 1 1 1 1 2 2 2 6 6 6 18 18 18];  %Nos of ifmap to process at a time. This values are determined by first simulation.
                                             %Since these ifmaps are processed together, it has been made sure that a larger n2(i) value is always wholey divisible...
                                             %by a smaller n2(i) value for all values in the n2 array so that there is always zero remainder from the division
