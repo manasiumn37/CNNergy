@@ -2,7 +2,7 @@
 
 If you use any part of this project please cite: 
 
-S. D. Manasi, F. S. Snigdha and S. S. Sapatnekar, "NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 8, pp. 1844-1857, Aug. 2020, doi: 10.1109/TVLSI.2020.2995135.
+S. D. Manasi, F. S. Snigdha and S. S. Sapatnekar, "NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients," *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)*, vol. 28, no. 8, pp. 1844-1857, Aug. 2020, doi: 10.1109/TVLSI.2020.2995135.
 
 The directories named "src" and "data" contain all the required files to use the tool.
 
@@ -90,5 +90,5 @@ For a given input layer the function provides the following outputs:
 14. Ifmap_DRAM_MB = Amount of DRAM access in Megabyte from ifmap data per image
 15. Ofmap_DRAM_MB = Amount of DRAM access in Megabyte from ofmap data per image
 
-For a detail description of our analytical CNN energy model please read our paper: S. D. Manasi, F. S. Snigdha and S. S. Sapatnekar, "NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 8, pp. 1844-1857, Aug. 2020. (Link: https://ieeexplore.ieee.org/abstract/document/9113336).
+For a detail description of our analytical CNN energy model please read our paper: S. D. Manasi, F. S. Snigdha and S. S. Sapatnekar, "NeuPart: Using Analytical Models to Drive Energy-Efficient Partitioning of CNN Computations on Cloud-Connected Mobile Clients," *IEEE Transactions on Very Large Scale Integration Systems (TVLSI),* vol. 28, no. 8, pp. 1844-1857, Aug. 2020. (Link: https://ieeexplore.ieee.org/abstract/document/9113336).
 
